@@ -1,4 +1,4 @@
-/*httpParams*/
+/*httpParams--kk*/
 var _res,_req,
 	url = require('url'),
 	querystring = require('querystring');
